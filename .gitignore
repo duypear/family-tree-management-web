@@ -1,0 +1,21 @@
+
+# Dependencies
+node_modules/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Logs and operating system files
+*.log
+.DS_Store
+Thumbs.db
+
+# Generated output
+coverage/
+dist/
+build/
+
+database/giapha.db
+
