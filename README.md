@@ -69,3 +69,4 @@ Before publishing, ensure that the database contains only appropriate demo data 
 ## License
 
 MIT
+This project uses Git and GitHub for version control.
